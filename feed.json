@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "3ekrafinas",
+    "title": "3ο Ε.Κ. Ανατολικής Αττικής (Ραφήνας)",
     "description": "",
     "home_page_url": "https://arispaliouras.github.io/3ekrafinas",
     "feed_url": "https://arispaliouras.github.io/3ekrafinas/feed.json",
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2026-09-13T15:30:43+03:00",
-            "date_modified": "2026-09-13T15:33:22+03:00"
+            "date_modified": "2026-09-13T15:35:36+03:00"
         }
     ]
 }
