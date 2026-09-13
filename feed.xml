@@ -3,10 +3,32 @@
     <title>3ekrafinas</title>
     <link href="https://arispaliouras.github.io/3ekrafinas/feed.xml" rel="self" />
     <link href="https://arispaliouras.github.io/3ekrafinas" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2026-09-13T15:33:22+03:00</updated>
     <author>
         <name>Aristeidis Paliouras</name>
     </author>
     <id>https://arispaliouras.github.io/3ekrafinas</id>
 
+    <entry>
+        <title>Νομοθεσία</title>
+        <author>
+            <name>Aristeidis Paliouras</name>
+        </author>
+        <link href="https://arispaliouras.github.io/3ekrafinas/h.html"/>
+        <id>https://arispaliouras.github.io/3ekrafinas/h.html</id>
+
+        <updated>2026-09-13T15:30:43+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    σδφδσ ασδφ
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>σδφδσ</p>
+<p>ασδφ</p>
+<figure class="post__image"><img loading="lazy"  src="https://arispaliouras.github.io/3ekrafinas/media/posts/2/IMG_0492.JPG" alt="" width="1600" height="900" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-xs.JPG 640w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-sm.JPG 768w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-md.JPG 1024w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-lg.JPG 1366w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-xl.JPG 1600w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-2xl.JPG 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>

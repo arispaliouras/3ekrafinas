@@ -9,5 +9,19 @@
         "name": "Aristeidis Paliouras"
     },
     "items": [
+        {
+            "id": "https://arispaliouras.github.io/3ekrafinas/h.html",
+            "url": "https://arispaliouras.github.io/3ekrafinas/h.html",
+            "title": "Νομοθεσία",
+            "summary": "σδφδσ ασδφ",
+            "content_html": "<p>σδφδσ</p>\n<p>ασδφ</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://arispaliouras.github.io/3ekrafinas/media/posts/2/IMG_0492.JPG\" alt=\"\" width=\"1600\" height=\"900\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-xs.JPG 640w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-sm.JPG 768w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-md.JPG 1024w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-lg.JPG 1366w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-xl.JPG 1600w ,https://arispaliouras.github.io/3ekrafinas/media/posts/2/responsive/IMG_0492-2xl.JPG 1920w\"></figure>",
+            "author": {
+                "name": "Aristeidis Paliouras"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-13T15:30:43+03:00",
+            "date_modified": "2026-09-13T15:33:22+03:00"
+        }
     ]
 }
