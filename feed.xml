@@ -3,12 +3,35 @@
     <title>3ο Ε.Κ. Ανατολικής Αττικής (Ραφήνας)</title>
     <link href="https://arispaliouras.github.io/3ekrafinas/feed.xml" rel="self" />
     <link href="https://arispaliouras.github.io/3ekrafinas" />
-    <updated>2026-09-13T15:35:36+03:00</updated>
+    <updated>2026-09-13T15:44:50+03:00</updated>
     <author>
         <name>Aristeidis Paliouras</name>
     </author>
     <id>https://arispaliouras.github.io/3ekrafinas</id>
 
+    <entry>
+        <title>ρρρ</title>
+        <author>
+            <name>Aristeidis Paliouras</name>
+        </author>
+        <link href="https://arispaliouras.github.io/3ekrafinas/rrr.html"/>
+        <id>https://arispaliouras.github.io/3ekrafinas/rrr.html</id>
+
+        <updated>2026-09-13T15:44:50+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    σδφσδφ σδφ σδφ σδ
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>σδφσδφ</p>
+<p>σδφ</p>
+<p>σδφ</p>
+<p>σδ</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Νομοθεσία</title>
         <author>
