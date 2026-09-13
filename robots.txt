@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://arispaliouras.github.io/3ekrafinas/sitemap.xml
